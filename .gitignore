@@ -1,0 +1,10 @@
+*.tgz
+*.tif
+*.zip
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.xml
+*.R
